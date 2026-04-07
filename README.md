@@ -1,12 +1,4 @@
-# 👋 Hey there, I'm Zyorby
-
----
-
-### 🚀 What I’m Working On
-- 🌐 Personal homelab setup (domain, networking, self-hosted apps)
-- 🔐 Building a password manager with bcrypt & MySQL
-- 🗺️ Custom FiveM maps (3+ years experience, private & public projects)
-- 📚 Studying for CompTIA certs & leveling up in cybersecurity
+### Zyorby
 
 ---
 
